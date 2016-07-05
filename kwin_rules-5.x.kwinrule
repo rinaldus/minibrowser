@@ -1,0 +1,15 @@
+[Параметры приложения для minibrowser]
+Description=Параметры приложения для minibrowser
+clientmachine=localhost
+clientmachinematch=0
+desktop=-1
+desktoprule=2
+fsplevel=2
+fsplevelrule=2
+skippager=true
+skippagerrule=2
+skiptaskbar=true
+skiptaskbarrule=2
+wmclass=minibrowser
+wmclasscomplete=false
+wmclassmatch=1
